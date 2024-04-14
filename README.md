@@ -6,4 +6,4 @@ En documento electrónico, con Portada (incluye logo de la universidad, fecha, n
 + Cual es la función de cada campo de la trama Ethernet.
 
 ## Documento a entregar:
-:paperclip: ![Archivo adjunto de la actividad] (Ethernet.pdf) 
+:paperclip: ![Archivo adjunto de la actividad](Ethernet.pdf) 
